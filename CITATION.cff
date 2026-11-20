@@ -1,0 +1,29 @@
+{
+  "cff-version": "1.2.0",
+  "message": "Please cite the dataset version and the original publication.",
+  "type": "dataset",
+  "title": "蘇格蘭精神病患的家庭寄宿照護（1870） / The Cottage System of Management of Lunatics as practised in Scotland, with Suggestions for its Elaboration and Improvement — Transcription Dataset",
+  "version": "0.1.0",
+  "date-released": "2026-11-20",
+  "authors": [
+    {
+      "given-names": "Chen-Yu",
+      "family-names": "Chu",
+      "orcid": "https://orcid.org/0009-0003-9738-6914"
+    }
+  ],
+  "repository-code": "https://github.com/poplolioi11/tuke-scottish-cottage-care-1870",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "精神醫學史",
+    "history of psychiatry",
+    "蘇格蘭",
+    "家庭寄宿",
+    "社區照護",
+    "J. Batty Tuke",
+    "cottage system",
+    "boarding out",
+    "Fife",
+    "Kinross"
+  ]
+}
