@@ -1,7 +1,7 @@
 {
   "source_title": "The Cottage System of Management of Lunatics as practised in Scotland, with Suggestions for its Elaboration and Improvement",
   "title_zh": "蘇格蘭精神病患的家庭寄宿照護（1870）",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "language": "en",
   "catalogue": "https://archive.org/details/s5912id1397886/page/n555/mode/1up",
   "manifest": "https://archive.org/metadata/s5912id1397886",
@@ -34,13 +34,37 @@
           "status": "transcribed",
           "units": [
             {
-              "kind": "prose",
-              "text": "The Cottage System of Management of Lunatics as practised in\nScotland, with Suggestions for its Elaboration and Improve-\nment. By J. B. TUKE, M.D. Edin., Medical Superinten-\ndent of the Fife and Kinross District Asylum.\n\n(Read at a Half-yearly Meeting of the Medico-Psychological Association, held\nat the Royal College of Physicians, Edinburgh, 25th November, 1869.)\n\nTHE more general adoption of the “Cottage System” for\nthe boarding out of harmless and incurable lunatics is re-\ngarded by many as the only remedy for the increased demand\nfor Asylum accommodation, for the reduction of expenditure,\nand for the prevention of the overgrowth of Asylums. In Scot-\nland the suggestion meets with the approbation of high\nauthority—in England it does not. I have experienced no\nsmall reluctance in coming forward now to express my\nopinion of the working of the system as it now exists in\nScotland, and to narrate my experience of it derived from actual\ninspection; but conceiving it to be a fair field for discussion,\nI enter upon it in the full hope that, however much my views\nmay militate against the opinion of the advocates of the\n“Cottage System,” they will be accepted as unbiassed by\naught but a desire to promote the welfare of the lunatic and\nthe public at large.\n\nIt is needless here to enter upon comparisons between\nforeign institutions, such as Gheel, and the villages in\nScotland in which patients are boarded on the “Cottage\nSystem,” as there is no mutual stand-point of history or\nnational characteristics; nor is animadversion called for on\nthe failure in attempts to institute similar villages prior to the\nappointment of the General Board of Commissioners in\nLunacy for Scotland. We must confine ourselves to the con-\nsideration of things as they at present exist.\n\nIn order to be able to form an individual opinion of the\nmanner in which lunatics are provided for under this system\nI paid two visits to Kennoway, a village in Fifeshire, about a\nmile and a half distant from the Cameron Bridge Station on\nthe Leven and East of Fife Railway. The first visitation was\nmade on the 4th July, 1869, when I was accompanied by a\nmember of the Fife and Kinross District Lunacy Board; the\nsecond on the 16th October, when Dr. John Smith, Vice-\nPresident of the Royal College of Physicians of Edinburgh,\nwas my companion. As you all know Dr. Smith has been",
+              "kind": "running-head",
+              "text": "The Cottage System of Managing Lunatics, [Jan.,",
               "id": "f001-s-u01"
+            },
+            {
+              "kind": "heading",
+              "text": "The Cottage System of Management of Lunatics as practised in\nScotland, with Suggestions for its Elaboration and Improve-\nment. By J. B. TUKE, M.D. Edin., Medical Superinten-\ndent of the Fife and Kinross District Asylum.",
+              "id": "f001-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "(Read at a Half-yearly Meeting of the Medico-Psychological Association, held\nat the Royal College of Physicians, Edinburgh, 25th November, 1869.)",
+              "id": "f001-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "THE more general adoption of the “Cottage System” for\nthe boarding out of harmless and incurable lunatics is re-\ngarded by many as the only remedy for the increased demand\nfor Asylum accommodation, for the reduction of expenditure,\nand for the prevention of the overgrowth of Asylums. In Scot-\nland the suggestion meets with the approbation of high\nauthority—in England it does not. I have experienced no\nsmall reluctance in coming forward now to express my\nopinion of the working of the system as it now exists in\nScotland, and to narrate my experience of it derived from actual\ninspection; but conceiving it to be a fair field for discussion,\nI enter upon it in the full hope that, however much my views\nmay militate against the opinion of the advocates of the\n“Cottage System,” they will be accepted as unbiassed by\naught but a desire to promote the welfare of the lunatic and\nthe public at large.",
+              "id": "f001-s-u04"
+            },
+            {
+              "kind": "text",
+              "text": "It is needless here to enter upon comparisons between\nforeign institutions, such as Gheel, and the villages in\nScotland in which patients are boarded on the “Cottage\nSystem,” as there is no mutual stand-point of history or\nnational characteristics; nor is animadversion called for on\nthe failure in attempts to institute similar villages prior to the\nappointment of the General Board of Commissioners in\nLunacy for Scotland. We must confine ourselves to the con-\nsideration of things as they at present exist.",
+              "id": "f001-s-u05"
+            },
+            {
+              "kind": "text",
+              "text": "In order to be able to form an individual opinion of the\nmanner in which lunatics are provided for under this system\nI paid two visits to Kennoway, a village in Fifeshire, about a\nmile and a half distant from the Cameron Bridge Station on\nthe Leven and East of Fife Railway. The first visitation was\nmade on the 4th July, 1869, when I was accompanied by a\nmember of the Fife and Kinross District Lunacy Board; the\nsecond on the 16th October, when Dr. John Smith, Vice-\nPresident of the Royal College of Physicians of Edinburgh,\nwas my companion. As you all know Dr. Smith has been",
+              "id": "f001-s-u06"
             }
           ],
           "notes": [
-            "Running head: The Cottage System of Managing Lunatics, [Jan.,",
             "Title, attribution and meeting statement start the article at the top of the page."
           ]
         }
@@ -67,14 +91,32 @@
           "status": "transcribed",
           "units": [
             {
-              "kind": "prose",
-              "text": "closely connected with the treatment of Lunacy for the last\nhalf century, has made the management and accommodation\nof the insane his special study, and has been a thoughtful\nobserver and carrier out of the improved system of treatment.\nIt is of no small importance to be able to inform you that\neither he or I had been personally acquainted with all the\npatients resident in Kennoway (with one exception) when\nthey had been inmates of Asylums. The larger number had\nbeen under Dr. Smith’s care, either in the old City Bedlam or\nin the Lunatic Wards of the City Poorhouse of Edinburgh—\nthe remainder had been patients of my own in the Royal\nEdinburgh Asylum or in the Fife and Kinross District\nAsylum.\n\nThe village of Kennoway is healthily situated on a rising\nground overlooking the Firth of Forth, from which it is dis-\ntant about two miles; in consequence of the decline of the\nhand-loom trade it has seen its best days; many of the\nhouses are ruinous, and its general appearance is strongly\nsuggestive of decay. Boarded in the houses of the villagers\nare from twenty-three to twenty-five lunatics, whose condi-\ntion is admitted to be equal, if not superior, to that of the\n1,500 similarly accommodated throughout Scotland.\n\nThe tenements in which we found the patients were of the\nclass inhabited by the poorest of agricultural labourers\nand weavers, many were evidently damp and indifferently\nventilated, the floors in most instances paved with flags, and\nopen drains stood or ran before the doors. As a rule, the\næsthetic term of “Cottage” as applied to these dwellings\nis an utter misnomer—to certain of them the term “hovel”\nwould be more appropriate. In one the stair bore witness to\nthe antiquity of the dwelling, being so worn by the feet of\npast generations as to require the visitor to make use of a\nrope for safety in ascending and descending. There are two\nor three exceptions to this dilapidated condition, but the very\nbest houses are faulty in construction. As to cleanliness, one\nhalf of these dwellings were, considering all the disadvan-\ntages, very fairly attended to, the other half were open to\nconsiderable animadversion. One was filthy in the extreme.\n\nThe number of patients in any one house does not exceed\nfour—these are termed “Special Licensed Houses;” in others\none, two, or three lunatics are boarded. The rate of board\npaid to the guardians is six shillings per head per week for\nmales, and five shillings for females—clothing being provided\nby the parish.",
+              "kind": "running-head",
+              "text": "1870.] by J. B. TUKE, M.D.",
               "id": "f002-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "closely connected with the treatment of Lunacy for the last\nhalf century, has made the management and accommodation\nof the insane his special study, and has been a thoughtful\nobserver and carrier out of the improved system of treatment.\nIt is of no small importance to be able to inform you that\neither he or I had been personally acquainted with all the\npatients resident in Kennoway (with one exception) when\nthey had been inmates of Asylums. The larger number had\nbeen under Dr. Smith’s care, either in the old City Bedlam or\nin the Lunatic Wards of the City Poorhouse of Edinburgh—\nthe remainder had been patients of my own in the Royal\nEdinburgh Asylum or in the Fife and Kinross District\nAsylum.",
+              "id": "f002-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "The village of Kennoway is healthily situated on a rising\nground overlooking the Firth of Forth, from which it is dis-\ntant about two miles; in consequence of the decline of the\nhand-loom trade it has seen its best days; many of the\nhouses are ruinous, and its general appearance is strongly\nsuggestive of decay. Boarded in the houses of the villagers\nare from twenty-three to twenty-five lunatics, whose condi-\ntion is admitted to be equal, if not superior, to that of the\n1,500 similarly accommodated throughout Scotland.",
+              "id": "f002-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "The tenements in which we found the patients were of the\nclass inhabited by the poorest of agricultural labourers\nand weavers, many were evidently damp and indifferently\nventilated, the floors in most instances paved with flags, and\nopen drains stood or ran before the doors. As a rule, the\næsthetic term of “Cottage” as applied to these dwellings\nis an utter misnomer—to certain of them the term “hovel”\nwould be more appropriate. In one the stair bore witness to\nthe antiquity of the dwelling, being so worn by the feet of\npast generations as to require the visitor to make use of a\nrope for safety in ascending and descending. There are two\nor three exceptions to this dilapidated condition, but the very\nbest houses are faulty in construction. As to cleanliness, one\nhalf of these dwellings were, considering all the disadvan-\ntages, very fairly attended to, the other half were open to\nconsiderable animadversion. One was filthy in the extreme.",
+              "id": "f002-s-u04"
+            },
+            {
+              "kind": "text",
+              "text": "The number of patients in any one house does not exceed\nfour—these are termed “Special Licensed Houses;” in others\none, two, or three lunatics are boarded. The rate of board\npaid to the guardians is six shillings per head per week for\nmales, and five shillings for females—clothing being provided\nby the parish.",
+              "id": "f002-s-u05"
             }
           ],
-          "notes": [
-            "Running head: 1870.] by J. B. TUKE, M.D."
-          ]
+          "notes": []
         }
       ]
     },
@@ -99,14 +141,47 @@
           "status": "transcribed",
           "units": [
             {
-              "kind": "prose",
-              "text": "The patients were, with one exception, either dements\nwhose disease was of long standing or congenital idiots.\nOne woman was reported to be subject to paroxysms of\nexcitement. Taken as a whole, they were identically of the\nclass which forms the mass of Asylum population.\n\nOn the occasion of my first visit I found in one of the\nworst managed houses a girl whose melancholic insanity\nwas of recent origin—a case which appeared to me\ncurable. On my second visit I was given to understand that\nshe had left the village, having proved too troublesome for\nher guardians to manage, who reported to me that the patient\nhad gone away far worse than when she came.\n\nWithin the last few weeks a young woman has been trans-\nferred to my asylum who has been weak-minded from birth.\nShe had, previous to admission, been resident in a private\ndwelling in the village of Star, near to Kennoway, in con-\nsequence of symptoms of hysterical insanity having developed\nthemselves. It was found impossible to manage her on\naccount of her erotic tendencies which at last gave rise to an\noutrage on public decency and which necessitated her trans-\nference to the Asylum.\n\nI know nothing as to the authority by which these two\npatients had been detained in the parish of Kennoway, but\nthey are evidences that the “Cottage System” is applied to\nrecent and curable cases, as well as to harmless and in-\ncurable.\n\nThe general appearance of the patients as to cleanliness\nof person and clothes ranged between moderately clean and\ndecidedly dirty. No means whatever exists for bathing. In\nno instance had a bath been administered since transmission\nto the village.\n\nOn the occasion of both my visits I had full opportunity of\njudging of the diet; as a rule it appeared to me insufficient in\nquality and quantity. It consisted chiefly of broth, fish, and\npotatoes; the vessel containing the broth was of a size not\ncompatible with satiety; the fish and potatoes were with\npatriarchal simplicity conveyed to the mouth by the fingers.\nIn one house, however, a good and sufficient meal, decently\nserved, was laid before the patients.\n\nThe conclusion arrived at by Dr. Smith and myself after a\ncareful consideration was, that all these patients had materi-\nally fallen off from the bodily condition in which they had\nbeen when inmates of the establishments over which we had\ncontrol. Three who had been transferred from my own",
+              "kind": "running-head",
+              "text": "The Cottage System of Managing Lunatics, [Jan.,",
               "id": "f003-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "The patients were, with one exception, either dements\nwhose disease was of long standing or congenital idiots.\nOne woman was reported to be subject to paroxysms of\nexcitement. Taken as a whole, they were identically of the\nclass which forms the mass of Asylum population.",
+              "id": "f003-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "On the occasion of my first visit I found in one of the\nworst managed houses a girl whose melancholic insanity\nwas of recent origin—a case which appeared to me\ncurable. On my second visit I was given to understand that\nshe had left the village, having proved too troublesome for\nher guardians to manage, who reported to me that the patient\nhad gone away far worse than when she came.",
+              "id": "f003-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "Within the last few weeks a young woman has been trans-\nferred to my asylum who has been weak-minded from birth.\nShe had, previous to admission, been resident in a private\ndwelling in the village of Star, near to Kennoway, in con-\nsequence of symptoms of hysterical insanity having developed\nthemselves. It was found impossible to manage her on\naccount of her erotic tendencies which at last gave rise to an\noutrage on public decency and which necessitated her trans-\nference to the Asylum.",
+              "id": "f003-s-u04"
+            },
+            {
+              "kind": "text",
+              "text": "I know nothing as to the authority by which these two\npatients had been detained in the parish of Kennoway, but\nthey are evidences that the “Cottage System” is applied to\nrecent and curable cases, as well as to harmless and in-\ncurable.",
+              "id": "f003-s-u05"
+            },
+            {
+              "kind": "text",
+              "text": "The general appearance of the patients as to cleanliness\nof person and clothes ranged between moderately clean and\ndecidedly dirty. No means whatever exists for bathing. In\nno instance had a bath been administered since transmission\nto the village.",
+              "id": "f003-s-u06"
+            },
+            {
+              "kind": "text",
+              "text": "On the occasion of both my visits I had full opportunity of\njudging of the diet; as a rule it appeared to me insufficient in\nquality and quantity. It consisted chiefly of broth, fish, and\npotatoes; the vessel containing the broth was of a size not\ncompatible with satiety; the fish and potatoes were with\npatriarchal simplicity conveyed to the mouth by the fingers.\nIn one house, however, a good and sufficient meal, decently\nserved, was laid before the patients.",
+              "id": "f003-s-u07"
+            },
+            {
+              "kind": "text",
+              "text": "The conclusion arrived at by Dr. Smith and myself after a\ncareful consideration was, that all these patients had materi-\nally fallen off from the bodily condition in which they had\nbeen when inmates of the establishments over which we had\ncontrol. Three who had been transferred from my own",
+              "id": "f003-s-u08"
             }
           ],
-          "notes": [
-            "Running head: The Cottage System of Managing Lunatics, [Jan.,"
-          ]
+          "notes": []
         }
       ]
     },
@@ -131,13 +206,37 @@
           "status": "transcribed",
           "units": [
             {
-              "kind": "prose",
-              "text": "Asylum only a few months previously were anæmic and thin\ncompared with what they were when they left my charge.\n\nThe amount of supervision exercised over these patients\nand their guardians is understood to consist of a visit twice\na year from a Deputy-Commissioner in Lunacy, a quarterly\nvisit from the parochial surgeon, and an occasional visit\nfrom the Inspectors of Poor of the parishes to which the\nlunatics severally belong. The Inspector of Poor of Kenno-\nway acts as honorary Superintendent, which office entails\nno small amount of trouble and correspondence.\n\nThose houses in which the patients were best cared for\nwere kept by aged or decrepit persons who were evidently un-\nable from these or other incapacitating circumstances to fol-\nlow out any definite employment; in fact, it appeared as if\nthey were merely able to eke out their own existence from\nthe meagre profit derivable from the board paid for the main-\ntenance of their charges. I gladly admit that in the best houses\nthe manner of the guardians was such as to lead to the conclu-\nsion that they took a kindly sort of interest in their patients, but\nI was by no means so struck with the style of others, none of\nwhom would I have selected as an asylum attendant.\n\nIt cannot be said that any greater degree of contentment as\nto their lot existed amongst those lunatics than amongst those\nresident in asylums. Several regretted the absence of the\namusements and variety of an asylum life and complained of\nthe dullness and monotony of their present abode. One poor\nwoman said that she was anxious to be back in the “Forrest\nRoad,”* an institution not peculiarly characterized by variety,\nbut still a very vortex of excitement compared with Kenno-\nway. The complaints which are constantly heard in Asy-\nlums were not wanting here, and any appearance of really\ngreater personal liberty was far from evident. As to absence of\nrestraint and discipline as ameliorating conditions much cher-\nished by these free air patients I am very doubtful; those\nwho could think at all recognised the fact that they were\nstill “kept” in Kennoway and that they were no more free than\nif detained under a Sheriff’s warrant. I may be wrong, but\nmy impression was, that the restraint and authority exercised\nover them by persons of their own or even of a lower class\nsat heavier upon them and was accompanied by a feeling of\ndegradation greater than would have been experienced had\nthey been exercised by those whom they recognised as their\n\n* Lunatic wards of City Poorhouse, Edinburgh.",
+              "kind": "running-head",
+              "text": "1870.] by J. B. TUKE, M.D.",
               "id": "f004-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "Asylum only a few months previously were anæmic and thin\ncompared with what they were when they left my charge.",
+              "id": "f004-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "The amount of supervision exercised over these patients\nand their guardians is understood to consist of a visit twice\na year from a Deputy-Commissioner in Lunacy, a quarterly\nvisit from the parochial surgeon, and an occasional visit\nfrom the Inspectors of Poor of the parishes to which the\nlunatics severally belong. The Inspector of Poor of Kenno-\nway acts as honorary Superintendent, which office entails\nno small amount of trouble and correspondence.",
+              "id": "f004-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "Those houses in which the patients were best cared for\nwere kept by aged or decrepit persons who were evidently un-\nable from these or other incapacitating circumstances to fol-\nlow out any definite employment; in fact, it appeared as if\nthey were merely able to eke out their own existence from\nthe meagre profit derivable from the board paid for the main-\ntenance of their charges. I gladly admit that in the best houses\nthe manner of the guardians was such as to lead to the conclu-\nsion that they took a kindly sort of interest in their patients, but\nI was by no means so struck with the style of others, none of\nwhom would I have selected as an asylum attendant.",
+              "id": "f004-s-u04"
+            },
+            {
+              "kind": "text",
+              "text": "It cannot be said that any greater degree of contentment as\nto their lot existed amongst those lunatics than amongst those\nresident in asylums. Several regretted the absence of the\namusements and variety of an asylum life and complained of\nthe dullness and monotony of their present abode. One poor\nwoman said that she was anxious to be back in the “Forrest\nRoad,”* an institution not peculiarly characterized by variety,\nbut still a very vortex of excitement compared with Kenno-\nway. The complaints which are constantly heard in Asy-\nlums were not wanting here, and any appearance of really\ngreater personal liberty was far from evident. As to absence of\nrestraint and discipline as ameliorating conditions much cher-\nished by these free air patients I am very doubtful; those\nwho could think at all recognised the fact that they were\nstill “kept” in Kennoway and that they were no more free than\nif detained under a Sheriff’s warrant. I may be wrong, but\nmy impression was, that the restraint and authority exercised\nover them by persons of their own or even of a lower class\nsat heavier upon them and was accompanied by a feeling of\ndegradation greater than would have been experienced had\nthey been exercised by those whom they recognised as their",
+              "id": "f004-s-u05"
+            },
+            {
+              "kind": "footnote",
+              "text": "* Lunatic wards of City Poorhouse, Edinburgh.",
+              "id": "f004-s-u06"
             }
           ],
           "notes": [
-            "Running head: 1870.] by J. B. TUKE, M.D.",
             "Page-bottom footnote is printed below the body."
           ]
         }
@@ -164,13 +263,37 @@
           "status": "transcribed",
           "units": [
             {
-              "kind": "prose",
-              "text": "superiors. They all had their limits assigned them—some\nwent stated messages and errands—others were allowed to\nbask in the sun in the streets or “kale yard,” but all were\nas much restrained as if within the boundary wall of an asy-\nlum estate.\n\nIf I had ever entertained any hypothetical sentiment about\nthe “traitment à l’air libre,” it was utterly dissipated by my\nexperience of Kennoway, for I can safely say that most of\nthese patients would have had more free air, and of a better\nquality, and equal if not greater liberty in any well constructed\nand well regulated Asylum than they received in the position\nin which we found them. The day on which my first visit\nwas made was fine and sunny and therefore the brightest side\nof the picture was seen, but what is the condition of these\npoor people in winter or in rainy or stormy weather?\nWhich would you consider the more monotonous under\nsuch circumstances, the workroom or verandah of an Asylum,\nor the dingy kitchen of a Kennoway cottage? That all\nof these patients were in more “homelike” circumstances\nthan if confined in an Asylum is most true: many of them\nwere in the full possession of the homelike influences\nof dirt and squalor, and all of them were devoid of the\nunhomelike influences of personal cleanliness. But how far\nthey were benefited by presence of the one and absence of the\nother is open to doubt.\n\nIn very fact we must put aside “free air,” “greater\nliberty,” and “absence of restraint,” as mere sentimental\nprops—arguments which could only be used to influence the\nopinion of those unconversant with the peculiarities of the\ninsane, quite impotent to convince those who have made them\na study. I can honestly say that in my own asylum any one\nof these patients would have had greater liberty of action, less\nrestraint, and better and freer air, and I am sure the same\nwould obtain in any one of the institutions with which you\nare connected.\n\nFrom all I could learn very slight attempts were made to\nemploy these patients, although certain of them were quite\ncapable of appreciating the advantages of such recreations.\n\nA few attend public worship in the parish church, but I\nwas given to understand that their presence was not agree-\nable to certain of the congregation. No evidence presented\nitself that these lunatics met with annoyance or irritation\nfrom the juvenile public—on the contrary, from all that could\nbe gathered, a kindly and considerate feeling exists towards",
+              "kind": "running-head",
+              "text": "The Cottage System of Managing Lunatics, [Jan.,",
               "id": "f005-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "superiors. They all had their limits assigned them—some\nwent stated messages and errands—others were allowed to\nbask in the sun in the streets or “kale yard,” but all were\nas much restrained as if within the boundary wall of an asy-\nlum estate.",
+              "id": "f005-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "If I had ever entertained any hypothetical sentiment about\nthe “traitment à l’air libre,” it was utterly dissipated by my\nexperience of Kennoway, for I can safely say that most of\nthese patients would have had more free air, and of a better\nquality, and equal if not greater liberty in any well constructed\nand well regulated Asylum than they received in the position\nin which we found them. The day on which my first visit\nwas made was fine and sunny and therefore the brightest side\nof the picture was seen, but what is the condition of these\npoor people in winter or in rainy or stormy weather?\nWhich would you consider the more monotonous under\nsuch circumstances, the workroom or verandah of an Asylum,\nor the dingy kitchen of a Kennoway cottage? That all\nof these patients were in more “homelike” circumstances\nthan if confined in an Asylum is most true: many of them\nwere in the full possession of the homelike influences\nof dirt and squalor, and all of them were devoid of the\nunhomelike influences of personal cleanliness. But how far\nthey were benefited by presence of the one and absence of the\nother is open to doubt.",
+              "id": "f005-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "In very fact we must put aside “free air,” “greater\nliberty,” and “absence of restraint,” as mere sentimental\nprops—arguments which could only be used to influence the\nopinion of those unconversant with the peculiarities of the\ninsane, quite impotent to convince those who have made them\na study. I can honestly say that in my own asylum any one\nof these patients would have had greater liberty of action, less\nrestraint, and better and freer air, and I am sure the same\nwould obtain in any one of the institutions with which you\nare connected.",
+              "id": "f005-s-u04"
+            },
+            {
+              "kind": "text",
+              "text": "From all I could learn very slight attempts were made to\nemploy these patients, although certain of them were quite\ncapable of appreciating the advantages of such recreations.",
+              "id": "f005-s-u05"
+            },
+            {
+              "kind": "text",
+              "text": "A few attend public worship in the parish church, but I\nwas given to understand that their presence was not agree-\nable to certain of the congregation. No evidence presented\nitself that these lunatics met with annoyance or irritation\nfrom the juvenile public—on the contrary, from all that could\nbe gathered, a kindly and considerate feeling exists towards",
+              "id": "f005-s-u06"
             }
           ],
           "notes": [
-            "Running head: The Cottage System of Managing Lunatics, [Jan.,",
             "The printed French word is “traitment”."
           ]
         }
@@ -197,14 +320,32 @@
           "status": "transcribed",
           "units": [
             {
-              "kind": "prose",
-              "text": "them throughout the village. On subsequent enquiry I was\ninformed that apprehensions are entertained by certain of\nthe inhabitants of Kennoway as to the dangerous tendencies of\none of these lunatics, that on the part of others a dislike exists\nto the constant presence of such depressing and melancholy\nobjects, and that objections are held to male lunatics being\nboarded in the houses of single women, of which there are\ninstances.\n\nHaving thus laid before you the general results of my in-\nspections of the Kennoway patients, I am desirous of entering\nupon a comparison between their condition and that of luna-\ntics resident in asylums and the lunatic wards of poorhouses.\nPerhaps it will be as well to take up the monetary part of the\nquestion first. The rate of board paid to the guardians is\n£15 12s. per annum for males and £13 for females. The ex-\npenditure for clothing (which is found by the parish) may be\nstated at £2 per head. The parochial surgeon is paid half-a-\nguinea per head for visiting, and an additional £1 for inspec-\ntor’s travelling expenses, correspondence—charges for trans-\nference and extras may be fairly added, giving a total of £19\n2s. 6d. for males and £16 10s. 6d. for females, and a mean\nover the two sexes of £17 16s. 6d. In all future comparisons\nthis average will be adopted as against the rates of board in\nasylums, where the charge is the same for men and women.\n\nAccording to the Eleventh Annual Report of the General\nBoard of Lunacy the average daily rate of maintenance in\nroyal and district asylums, in 1867, was 1s. 4d. per head,\namounting to £24 6s. 8d. for the year. Several asylums have\nreduced their rates of board since the date of the report, but\nwe must accept this sum as the last officially reported. The\noutlay for building falls upon the county, still it must be\nreckoned amongst the items of maintenance. It may fairly\nbe stated to be £4 per head per annum. The rate of main-\ntenance in lunatic wards of poor-houses and parochial\nasylums is £19 15s. 5d. It will thus be seen that the charge\nfor a lunatic under the “Cottage System” is £10 10s. 2d. less\nthan that for the asylum patient, and £8 11s. 3d. less than\nthat for the inmate of a parochial asylum.\n\nThe question now is, by what means is this saving ob-\ntained? It is self-evident that it is the result of inferior\naccommodation, inferior diet, absence of supervision, neglect\nof cleanliness, the non-provision of those ameliorating in-\nfluences which in asylums are considered to be absolutely\nnecessary, and the want of attention to those hygienic con-",
+              "kind": "running-head",
+              "text": "1870.] by J. B. TUKE, M.D.",
               "id": "f006-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "them throughout the village. On subsequent enquiry I was\ninformed that apprehensions are entertained by certain of\nthe inhabitants of Kennoway as to the dangerous tendencies of\none of these lunatics, that on the part of others a dislike exists\nto the constant presence of such depressing and melancholy\nobjects, and that objections are held to male lunatics being\nboarded in the houses of single women, of which there are\ninstances.",
+              "id": "f006-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "Having thus laid before you the general results of my in-\nspections of the Kennoway patients, I am desirous of entering\nupon a comparison between their condition and that of luna-\ntics resident in asylums and the lunatic wards of poorhouses.\nPerhaps it will be as well to take up the monetary part of the\nquestion first. The rate of board paid to the guardians is\n£15 12s. per annum for males and £13 for females. The ex-\npenditure for clothing (which is found by the parish) may be\nstated at £2 per head. The parochial surgeon is paid half-a-\nguinea per head for visiting, and an additional £1 for inspec-\ntor’s travelling expenses, correspondence—charges for trans-\nference and extras may be fairly added, giving a total of £19\n2s. 6d. for males and £16 10s. 6d. for females, and a mean\nover the two sexes of £17 16s. 6d. In all future comparisons\nthis average will be adopted as against the rates of board in\nasylums, where the charge is the same for men and women.",
+              "id": "f006-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "According to the Eleventh Annual Report of the General\nBoard of Lunacy the average daily rate of maintenance in\nroyal and district asylums, in 1867, was 1s. 4d. per head,\namounting to £24 6s. 8d. for the year. Several asylums have\nreduced their rates of board since the date of the report, but\nwe must accept this sum as the last officially reported. The\noutlay for building falls upon the county, still it must be\nreckoned amongst the items of maintenance. It may fairly\nbe stated to be £4 per head per annum. The rate of main-\ntenance in lunatic wards of poor-houses and parochial\nasylums is £19 15s. 5d. It will thus be seen that the charge\nfor a lunatic under the “Cottage System” is £10 10s. 2d. less\nthan that for the asylum patient, and £8 11s. 3d. less than\nthat for the inmate of a parochial asylum.",
+              "id": "f006-s-u04"
+            },
+            {
+              "kind": "text",
+              "text": "The question now is, by what means is this saving ob-\ntained? It is self-evident that it is the result of inferior\naccommodation, inferior diet, absence of supervision, neglect\nof cleanliness, the non-provision of those ameliorating in-\nfluences which in asylums are considered to be absolutely\nnecessary, and the want of attention to those hygienic con-",
+              "id": "f006-s-u05"
             }
           ],
-          "notes": [
-            "Running head: 1870.] by J. B. TUKE, M.D."
-          ]
+          "notes": []
         }
       ]
     },
@@ -229,14 +370,27 @@
           "status": "transcribed",
           "units": [
             {
-              "kind": "prose",
-              "text": "ditions which are universally accepted and inculcated in hos-\npitals for the insane.\n\nIt may be argued by the friends of the “Cottage System”\nthat pauper lunatics are frequently derived from the lowest\nclass of the lower classes, and that therefore there is no hard-\nship in returning them to the abodes in which they were\nreared when a return to sanity is beyond hope. This is only\npartially true—as a large proportion of pauper lunatics is\nderived from the most respectable class of the lower orders;\nthey are paupers only from misfortune, and their lives pre-\nvious to the occurrence of insanity have been passed among\ncomfortable surroundings and the elevating influences of well-\nregulated homes. If we look over the record of any pauper\nasylum and examine what their previous occupations have\nbeen, we find that the majority have occupied positions in the\nworld very far above anything approaching the pauper.\nArtisans, domestic servants, ploughmen, and their wives and\ndaughters form the great mass of the entries. The bonâ fide\npauper is rarely represented, therefore it is not fair to re-\ngard the pauper lunatic in the same category with the or-\ndinary pauper. Even if it were, are we to accept the habita-\ntion of the poorest of the poorer classes as a criterion for the\naccommodation of the harmless and hopeless lunatic? I have\nno hesitation in saying that in at least three of the houses\nwhich I visited at Kennoway, lunatic patients were accom-\nmodated in this manner, most of whom were not so demented\nas to be unable to recognise the benefits of a superior condi-\ntion, and whose deterioration might be considered as certain\nin consequence. To say that what is good enough for a sane\npauper is good enough for an insane is simply to ignore and\ncast overboard the results of the philanthropic efforts of the\nlast forty years. If the houses I speak of are sufficient and\nsatisfactory for the accommodation of certain of the cases I\nfound in them, the construction of the various Asylums in\nScotland was uncalled for and unnecessary by at least one\nhalf. If it is right and proper and humane to keep lunatics\nwho can appreciate the real comforts of an asylum in such\nplaces as the worst houses in Kennoway, it would be right and\nproper and humane for medical superintendents to dismiss\nto similar quarters one half of their patients.\n\nAs to supervision, it is just possible that, speaking as a\nMedical Superintendent, I may overrate the disadvantages con-\nsequent upon imperfect supervision; but it does strike the med-\nical superintendent mind as curious that if he, an educated",
+              "kind": "running-head",
+              "text": "The Cottage System of Managing Lunatics, [Jan.,",
               "id": "f007-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "ditions which are universally accepted and inculcated in hos-\npitals for the insane.",
+              "id": "f007-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "It may be argued by the friends of the “Cottage System”\nthat pauper lunatics are frequently derived from the lowest\nclass of the lower classes, and that therefore there is no hard-\nship in returning them to the abodes in which they were\nreared when a return to sanity is beyond hope. This is only\npartially true—as a large proportion of pauper lunatics is\nderived from the most respectable class of the lower orders;\nthey are paupers only from misfortune, and their lives pre-\nvious to the occurrence of insanity have been passed among\ncomfortable surroundings and the elevating influences of well-\nregulated homes. If we look over the record of any pauper\nasylum and examine what their previous occupations have\nbeen, we find that the majority have occupied positions in the\nworld very far above anything approaching the pauper.\nArtisans, domestic servants, ploughmen, and their wives and\ndaughters form the great mass of the entries. The bonâ fide\npauper is rarely represented, therefore it is not fair to re-\ngard the pauper lunatic in the same category with the or-\ndinary pauper. Even if it were, are we to accept the habita-\ntion of the poorest of the poorer classes as a criterion for the\naccommodation of the harmless and hopeless lunatic? I have\nno hesitation in saying that in at least three of the houses\nwhich I visited at Kennoway, lunatic patients were accom-\nmodated in this manner, most of whom were not so demented\nas to be unable to recognise the benefits of a superior condi-\ntion, and whose deterioration might be considered as certain\nin consequence. To say that what is good enough for a sane\npauper is good enough for an insane is simply to ignore and\ncast overboard the results of the philanthropic efforts of the\nlast forty years. If the houses I speak of are sufficient and\nsatisfactory for the accommodation of certain of the cases I\nfound in them, the construction of the various Asylums in\nScotland was uncalled for and unnecessary by at least one\nhalf. If it is right and proper and humane to keep lunatics\nwho can appreciate the real comforts of an asylum in such\nplaces as the worst houses in Kennoway, it would be right and\nproper and humane for medical superintendents to dismiss\nto similar quarters one half of their patients.",
+              "id": "f007-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "As to supervision, it is just possible that, speaking as a\nMedical Superintendent, I may overrate the disadvantages con-\nsequent upon imperfect supervision; but it does strike the med-\nical superintendent mind as curious that if he, an educated",
+              "id": "f007-s-u04"
             }
           ],
-          "notes": [
-            "Running head: The Cottage System of Managing Lunatics, [Jan.,"
-          ]
+          "notes": []
         }
       ]
     },
@@ -261,13 +415,32 @@
           "status": "transcribed",
           "units": [
             {
-              "kind": "prose",
-              "text": "professional man, specially educated in a special branch of his\nprofession, requires the manifold machinery of supervision to\nwhich by Act of Parliament he is subjected, the unedu-\ncated cottar should have consigned to his slightly supervised\ncharge that helpless being, the chronic dement, who most re-\nquires careful consideration and protection. It argues simply\nthis, that the machinery of Asylums is too complicated or that\nthe supervision of the insane in private dwellings is proportion-\nately inadequate. That personal cleanliness must be scrupu-\nlously attended to is a leading axiom in all Asylums. No\nmeans for bathing exist at Kennoway. I instance the high-\nest authority in Scotland that it is imperatively necessary.\nIn the Ninth Annual Report of the General Board of Lunacy\nwill be found the following passage, which occurs when the\nVisiting Commissioner is commenting on the deficient water\nsupply in the Royal Asylum, Aberdeen—“It is stated that,\nduring the winter, each individual is bathed about once a\nmonth, and during summer more frequently, and the same\nwater may be used by ten. This arrangement seems altogether\ninadequate; and if dictated by scarcity of water, a sufficient\nsupply should be forthwith secured, as absolutely required\nfor the purposes of mere cleanliness as well as of health.” *\nAnd in many other instances in this and other Reports similar\ncomments are made by the Visiting Commissioners as to the\ndeficient means for personal cleanliness in other Asylums, and\nin one instance the absence of paper in water-closets is animad-\nverted on. With these opinions of the governing body before\nus, and with our knowledge of the customs of the insane, no\none can gainsay the fact that a great desideratum in treat-\nment is absent in Kennoway.\n\nIn Asylums the expense for diet is understated at 4s. 6d.\nper week. The scale laid down for the lunatic wards of Poor-\nhouses cannot be acted up to for a less sum. The mean rate\nof board for males and females at Kennoway being 5s. 6d. per\nweek, we may allow one shilling for bedding, washing, and\nhouse rent, one shilling for profit, leaving only 3s. 6d. per\nweek for food. This sum can hardly be considered adequate,\nmore especially when we take into consideration that in Asy-\nlums provisions are obtained by contract and as a rule at a\nlower rate than is paid by the public.\n\nSuperintendents experience great difficulty in obtain-\ning proper persons to act as attendants on the insane. Even\n\n* Appendix to the Ninth Annual Report of the General Board of Commis-\nsioners in Lunacy for Scotland. Page 148. The italics are my own.",
+              "kind": "running-head",
+              "text": "1870.] by J. B. TUKE, M.D.",
               "id": "f008-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "professional man, specially educated in a special branch of his\nprofession, requires the manifold machinery of supervision to\nwhich by Act of Parliament he is subjected, the unedu-\ncated cottar should have consigned to his slightly supervised\ncharge that helpless being, the chronic dement, who most re-\nquires careful consideration and protection. It argues simply\nthis, that the machinery of Asylums is too complicated or that\nthe supervision of the insane in private dwellings is proportion-\nately inadequate. That personal cleanliness must be scrupu-\nlously attended to is a leading axiom in all Asylums. No\nmeans for bathing exist at Kennoway. I instance the high-\nest authority in Scotland that it is imperatively necessary.\nIn the Ninth Annual Report of the General Board of Lunacy\nwill be found the following passage, which occurs when the\nVisiting Commissioner is commenting on the deficient water\nsupply in the Royal Asylum, Aberdeen—“It is stated that,\nduring the winter, each individual is bathed about once a\nmonth, and during summer more frequently, and the same\nwater may be used by ten. This arrangement seems altogether\ninadequate; and if dictated by scarcity of water, a sufficient\nsupply should be forthwith secured, as absolutely required\nfor the purposes of mere cleanliness as well as of health.” *\nAnd in many other instances in this and other Reports similar\ncomments are made by the Visiting Commissioners as to the\ndeficient means for personal cleanliness in other Asylums, and\nin one instance the absence of paper in water-closets is animad-\nverted on. With these opinions of the governing body before\nus, and with our knowledge of the customs of the insane, no\none can gainsay the fact that a great desideratum in treat-\nment is absent in Kennoway.",
+              "id": "f008-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "In Asylums the expense for diet is understated at 4s. 6d.\nper week. The scale laid down for the lunatic wards of Poor-\nhouses cannot be acted up to for a less sum. The mean rate\nof board for males and females at Kennoway being 5s. 6d. per\nweek, we may allow one shilling for bedding, washing, and\nhouse rent, one shilling for profit, leaving only 3s. 6d. per\nweek for food. This sum can hardly be considered adequate,\nmore especially when we take into consideration that in Asy-\nlums provisions are obtained by contract and as a rule at a\nlower rate than is paid by the public.",
+              "id": "f008-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "Superintendents experience great difficulty in obtain-\ning proper persons to act as attendants on the insane. Even",
+              "id": "f008-s-u04"
+            },
+            {
+              "kind": "footnote",
+              "text": "* Appendix to the Ninth Annual Report of the General Board of Commis-\nsioners in Lunacy for Scotland. Page 148. The italics are my own.",
+              "id": "f008-s-u05"
             }
           ],
           "notes": [
-            "Running head: 1870.] by J. B. TUKE, M.D.",
             "Page-bottom footnote is printed below the body. Quoted emphasis represented as plain text."
           ]
         }
@@ -294,14 +467,37 @@
           "status": "transcribed",
           "units": [
             {
-              "kind": "prose",
-              "text": "under supervision, it takes months to train such a servant\nand to inculcate that consideration which is due to the weak-\nnesses of those under his or her care. How, then, is it to be\nexpected that the poor labourer or artisan can at once be fitted\nto undertake the office for which experience shows special\ntraining is absolutely necessary.\n\nEnough has been already said as to my impressions of the\nsystem “à l’air libre,” and the absence of contentment amongst\nthe Kennoway patients. I would only direct your attention\nto the total want of all ameliorating and so-called humanising\ninfluences which are recommended by the governing body as\nnecessary in Asylums. Amusements there were none, em-\nployment was scanty, ventilation was imperfect, and cheer-\nful surroundings were entirely absent—a vegetable existence\nat 5s. 6d. per week was the lot of all I saw in the village.\n\nWe, as psychologists, admit fully the propriety and necessity\nof the recommendations of Commissioners so frequently\nurged for the provision in Asylums of amusement and objects\nof interest, and endeavour as far as lies in our power to carry\nthem out, occasionally experiencing no small difficulty in con-\nvincing Boards of Management that such things as pictures,\nmusical instruments, books, periodicals, lectures and concerts\nare necessary for the treatment of the insane. It has been\nput forward to me as an argument against them that 1,500\nlunatics of the same class as forms the staple of Asylum\npopulation are resident in private dwellings, where no such\nmeans of recreation and amusement exist, and it was argued\nthat if these 1,500 people could do without them, why should\npublic money be expended for the residents in Asylums?\n\nFrom all that has been said, I do not think it can be\ndoubted but that the saving obtained by the Cottage System\nis procured by means detrimental to the lunatic. It is diffi-\ncult to understand how this provision for lunatics can be held\nto be satisfactory when it is compared with Asylum accommo-\ndation.\n\nStatistics show that the death-rate in private dwel-\nlings is much less than in lunatic wards of Poorhouses;\nbut this can easily be accounted for by the fact that no one\ncan be transferred to a “Cottage” unless certified to be in\nsound bodily health. It cannot be said that any lunatic is in\nsound bodily health, as the nervous centres are necessarily\ndiseased and impaired to such an extent as to mask the\nsymptoms of diseases of other organs—thus rendering con-\nstant medical supervision necessary. We have no means of",
+              "kind": "running-head",
+              "text": "The Cottage System of Managing Lunatics, [Jan.,",
               "id": "f009-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "under supervision, it takes months to train such a servant\nand to inculcate that consideration which is due to the weak-\nnesses of those under his or her care. How, then, is it to be\nexpected that the poor labourer or artisan can at once be fitted\nto undertake the office for which experience shows special\ntraining is absolutely necessary.",
+              "id": "f009-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "Enough has been already said as to my impressions of the\nsystem “à l’air libre,” and the absence of contentment amongst\nthe Kennoway patients. I would only direct your attention\nto the total want of all ameliorating and so-called humanising\ninfluences which are recommended by the governing body as\nnecessary in Asylums. Amusements there were none, em-\nployment was scanty, ventilation was imperfect, and cheer-\nful surroundings were entirely absent—a vegetable existence\nat 5s. 6d. per week was the lot of all I saw in the village.",
+              "id": "f009-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "We, as psychologists, admit fully the propriety and necessity\nof the recommendations of Commissioners so frequently\nurged for the provision in Asylums of amusement and objects\nof interest, and endeavour as far as lies in our power to carry\nthem out, occasionally experiencing no small difficulty in con-\nvincing Boards of Management that such things as pictures,\nmusical instruments, books, periodicals, lectures and concerts\nare necessary for the treatment of the insane. It has been\nput forward to me as an argument against them that 1,500\nlunatics of the same class as forms the staple of Asylum\npopulation are resident in private dwellings, where no such\nmeans of recreation and amusement exist, and it was argued\nthat if these 1,500 people could do without them, why should\npublic money be expended for the residents in Asylums?",
+              "id": "f009-s-u04"
+            },
+            {
+              "kind": "text",
+              "text": "From all that has been said, I do not think it can be\ndoubted but that the saving obtained by the Cottage System\nis procured by means detrimental to the lunatic. It is diffi-\ncult to understand how this provision for lunatics can be held\nto be satisfactory when it is compared with Asylum accommo-\ndation.",
+              "id": "f009-s-u05"
+            },
+            {
+              "kind": "text",
+              "text": "Statistics show that the death-rate in private dwel-\nlings is much less than in lunatic wards of Poorhouses;\nbut this can easily be accounted for by the fact that no one\ncan be transferred to a “Cottage” unless certified to be in\nsound bodily health. It cannot be said that any lunatic is in\nsound bodily health, as the nervous centres are necessarily\ndiseased and impaired to such an extent as to mask the\nsymptoms of diseases of other organs—thus rendering con-\nstant medical supervision necessary. We have no means of",
+              "id": "f009-s-u06"
             }
           ],
-          "notes": [
-            "Running head: The Cottage System of Managing Lunatics, [Jan.,"
-          ]
+          "notes": []
         }
       ]
     },
@@ -326,14 +522,27 @@
           "status": "transcribed",
           "units": [
             {
-              "kind": "prose",
-              "text": "ascertaining what are the causes of death amongst “free-air”\npatients, but we know that the subject of epilepsy, general\nparalysis, phthisis, or heart-disease cannot be boarded out,\nand, therefore, this section of the insane is not liable to death\nfrom the four main causes of death in Asylums and Poorhouses.\nAny deduction, accordingly, from the relative death-rates\nmust be fallacious. The low death-rate is the strongest\nargument put forward in favour of the system, but it seems\nto me quite untenable.\n\nHaving thus freely expressed my opinion of my experience\nof this so-called system, it may seem strange to you that I\nam in favour of employing it in certain cases and under cer-\ntain conditions. Demand for increased asylum accommoda-\ntion is made year by year, and, unless some steps are taken,\ndistrict asylums must double their size within the next thirty\nyears. These asylums are provided for the wants of special\ndistricts and have no power to refuse admission. If we\nallow that 50 per cent. of admissions are discharged cured,\nand 25 per cent. die, there is a residuum of 25 per cent. left\nto swell the population, so that a yearly increase is unavoid-\nable. Many of you may disagree with me in considering\nlarge asylums national misfortunes, unbeneficial alike to the\npatient, the ratepayer, and the physician. However that may\nbe, in an improved and elaborated Cottage System there ap-\npears to me to be a means of providing for harmless and in-\ncurable lunatics without any detriment to them. What is\nneeded is superior supervision, increased rate of board, and a\nhigher class of guardians—in short, that the inmates of pri-\nvate dwellings should be subjected to conditions more closely\nallied to those of inmates of asylums. To this end I suggest\nthat all lunatics of a district should be placed under the con-\ntrol of the District board, that such patients as are suited for\nresidence in private dwellings should be located in villages as\nnearly adjacent to the asylum as possible, and that the medi-\ncal officer or officers of the asylum should make regular visita-\ntions, as often as the board may direct, and report the result.\nThe guardians should be approved of by either a deputy-com-\nmissioner or the medical superintendent of the district asylum,\nand their houses should be made liable to visitation at any\nhour of the day or night by the latter officer, in the same\nmanner as lunatic asylums are liable to the visitation of the\nCommissioners in Lunacy.\n\nIt may be said that this is constituting the medical super-\nintendent the district inspector. Why should it not be so?",
+              "kind": "running-head",
+              "text": "1870.] by J. B. TUKE, M.D.",
               "id": "f010-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "ascertaining what are the causes of death amongst “free-air”\npatients, but we know that the subject of epilepsy, general\nparalysis, phthisis, or heart-disease cannot be boarded out,\nand, therefore, this section of the insane is not liable to death\nfrom the four main causes of death in Asylums and Poorhouses.\nAny deduction, accordingly, from the relative death-rates\nmust be fallacious. The low death-rate is the strongest\nargument put forward in favour of the system, but it seems\nto me quite untenable.",
+              "id": "f010-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "Having thus freely expressed my opinion of my experience\nof this so-called system, it may seem strange to you that I\nam in favour of employing it in certain cases and under cer-\ntain conditions. Demand for increased asylum accommoda-\ntion is made year by year, and, unless some steps are taken,\ndistrict asylums must double their size within the next thirty\nyears. These asylums are provided for the wants of special\ndistricts and have no power to refuse admission. If we\nallow that 50 per cent. of admissions are discharged cured,\nand 25 per cent. die, there is a residuum of 25 per cent. left\nto swell the population, so that a yearly increase is unavoid-\nable. Many of you may disagree with me in considering\nlarge asylums national misfortunes, unbeneficial alike to the\npatient, the ratepayer, and the physician. However that may\nbe, in an improved and elaborated Cottage System there ap-\npears to me to be a means of providing for harmless and in-\ncurable lunatics without any detriment to them. What is\nneeded is superior supervision, increased rate of board, and a\nhigher class of guardians—in short, that the inmates of pri-\nvate dwellings should be subjected to conditions more closely\nallied to those of inmates of asylums. To this end I suggest\nthat all lunatics of a district should be placed under the con-\ntrol of the District board, that such patients as are suited for\nresidence in private dwellings should be located in villages as\nnearly adjacent to the asylum as possible, and that the medi-\ncal officer or officers of the asylum should make regular visita-\ntions, as often as the board may direct, and report the result.\nThe guardians should be approved of by either a deputy-com-\nmissioner or the medical superintendent of the district asylum,\nand their houses should be made liable to visitation at any\nhour of the day or night by the latter officer, in the same\nmanner as lunatic asylums are liable to the visitation of the\nCommissioners in Lunacy.",
+              "id": "f010-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "It may be said that this is constituting the medical super-\nintendent the district inspector. Why should it not be so?",
+              "id": "f010-s-u04"
             }
           ],
-          "notes": [
-            "Running head: 1870.] by J. B. TUKE, M.D."
-          ]
+          "notes": []
         }
       ]
     },
@@ -358,13 +567,37 @@
           "status": "transcribed",
           "units": [
             {
-              "kind": "prose",
-              "text": "The inspection of the asylum over which he has charge is\nalready sufficiently provided for, and I think it will be ad-\nmitted that as a rule no better judge could be found of the\nproper treatment of lunatics in private dwellings than a man\nexperienced in the management of lunatics in asylums.\n\nA diet scale, the same as that laid down for the lunatic\nwards of poorhouses, should be made imperative for cottage\npatients, and rules be established for the maintenance of per-\nsonal cleanliness. No houses should be licensed excpet such\nas are in good repair and inhabited by the better class of\nthe peasantry or small artisans. These improved conditions\nwould necessitate an increased rate of board, falling not far\nshort of what is paid for patients in asylums; but without it\nit is hopeless, in my opinion, to obtain any satisfactory work-\ning of the Cottage System. Its success, economically, must\nnot be dependent on the poverty of decrepit old men or\nwomen with whom responsibility cannot be made to lie.\nSuppose a case:—A guardian from some unforeseen accident\nincurs a petty debt; how is it to be paid except by withhold-\ning from the lunatic consigned to his or her charge as much\nof the aliment provided as may wipe out the score? Again,\nhow much temptation lies in their way to conceal circum-\nstances connected with their charge which might result in\nremoval to an asylum, taking away with him the pittance\nwhich alone stands between the guardian and the poorhouse.\nBy making the system pay there is little doubt but that people\nwould be found competent to undertake the duty, derived\nfrom a better class who could be held actually responsible for\nthe well-being of the lunatics and whom constant supervision\nwould educate into a thorough knowledge of their business.\n\nThe class of patients suitable for the treatment is limited.\nCertainly young women are not eligible. Dements who, after\na fair trial, have been found insusceptible of improvement by\ndiscipline and asylum treatment, and the better class of con-\ngenital idiots should be alone consigned to the cottage.\n\nI understand that Dr. Arthur Mitchell, Deputy-Commis-\nsioner in Lunacy for Scotland, considers 10 per cent. only of\nthe inmates of asylums are fitted for cottage treatment as it\nat present exists. It appears to me that a larger proportion\nmight be so provided for were the suggestions I propose\nadopted.\n\nThere is yet another class of patients who might be con-\nsigned to cottages, namely, those discharged “on probation.”\nAsylum authorities are to some extent responsible for patients",
+              "kind": "running-head",
+              "text": "The Cottage System of Managing Lunatics, [Jan.,",
               "id": "f011-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "The inspection of the asylum over which he has charge is\nalready sufficiently provided for, and I think it will be ad-\nmitted that as a rule no better judge could be found of the\nproper treatment of lunatics in private dwellings than a man\nexperienced in the management of lunatics in asylums.",
+              "id": "f011-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "A diet scale, the same as that laid down for the lunatic\nwards of poorhouses, should be made imperative for cottage\npatients, and rules be established for the maintenance of per-\nsonal cleanliness. No houses should be licensed excpet such\nas are in good repair and inhabited by the better class of\nthe peasantry or small artisans. These improved conditions\nwould necessitate an increased rate of board, falling not far\nshort of what is paid for patients in asylums; but without it\nit is hopeless, in my opinion, to obtain any satisfactory work-\ning of the Cottage System. Its success, economically, must\nnot be dependent on the poverty of decrepit old men or\nwomen with whom responsibility cannot be made to lie.\nSuppose a case:—A guardian from some unforeseen accident\nincurs a petty debt; how is it to be paid except by withhold-\ning from the lunatic consigned to his or her charge as much\nof the aliment provided as may wipe out the score? Again,\nhow much temptation lies in their way to conceal circum-\nstances connected with their charge which might result in\nremoval to an asylum, taking away with him the pittance\nwhich alone stands between the guardian and the poorhouse.\nBy making the system pay there is little doubt but that people\nwould be found competent to undertake the duty, derived\nfrom a better class who could be held actually responsible for\nthe well-being of the lunatics and whom constant supervision\nwould educate into a thorough knowledge of their business.",
+              "id": "f011-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "The class of patients suitable for the treatment is limited.\nCertainly young women are not eligible. Dements who, after\na fair trial, have been found insusceptible of improvement by\ndiscipline and asylum treatment, and the better class of con-\ngenital idiots should be alone consigned to the cottage.",
+              "id": "f011-s-u04"
+            },
+            {
+              "kind": "text",
+              "text": "I understand that Dr. Arthur Mitchell, Deputy-Commis-\nsioner in Lunacy for Scotland, considers 10 per cent. only of\nthe inmates of asylums are fitted for cottage treatment as it\nat present exists. It appears to me that a larger proportion\nmight be so provided for were the suggestions I propose\nadopted.",
+              "id": "f011-s-u05"
+            },
+            {
+              "kind": "text",
+              "text": "There is yet another class of patients who might be con-\nsigned to cottages, namely, those discharged “on probation.”\nAsylum authorities are to some extent responsible for patients",
+              "id": "f011-s-u06"
             }
           ],
           "notes": [
-            "Running head: The Cottage System of Managing Lunatics, [Jan.,",
             "The printed form “excpet” is retained."
           ]
         }
@@ -391,13 +624,57 @@
           "status": "transcribed",
           "units": [
             {
-              "kind": "prose",
-              "text": "on trial, as their names are not taken off the books till the\nperiod of probation has expired. It appears to me that it\nwould be only fair that such patients should remain under the\ncognizance of superintendents as long as they are in any way\nresponsible for them.\n\nI am well aware that many minor difficulties would arise\nin the organising of a system such as is now proposed; but\nthey will be small in comparison with the advantages to be\nderived in overcoming them. These advantages consist\nin:—\n\n1st.—Keeping down the growth of ayslums, of which the\n“inevitable addition” would not be necessary every ten\nyears.\n\n2nd.—A real system of supervision and management over\nlunatics in private dwellings would be established.\n\n3rd.—The public would be guaranteed the proper care of\nall their pauper lunatics by their transference to the care of\nthe District Board.\n\n4th.—A large proportion of lunatics would be provided for\nby the Cottage System, if superintendents could assure\nthemselves of the proper treatment of patients under such\ncircumstances.\n\n5th.—The system might be made available for the treat-\nment of convalescent cases. I know of many instances\nwithin the last few months, which would have been benefitted\nby a change from the discipline of the Asylum, could I only\nhave assured myself by personal observation of their proper\ntreatment during their term of convalescence.\n\nThe Cottage System must sooner or later be brought more\nfully into play, but it will never gain the confidence of the\ngeneral public, or of those physicians who have made insanity\ntheir special study, until more stringent provisions against\nabuse are instituted, and greater assurances are offered that\npatients so provided for are looked after in a manner more\nnearly approaching to those confined in asylums. By its\nelaboration all necessity for enlargement of existing asylums\nwould be obviated for many years to come. The machinery\nfor carrying out the plan I have suggested already exists—\nand, were it adopted, it would secure a reduction of the enor-\nmous expenses to which districts are liable for the provision\nand maintenance of asylum accommodation.\n\nVOL. XV.                    35",
+              "kind": "running-head",
+              "text": "1870.] by J. B. TUKE, M.D.",
               "id": "f012-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "on trial, as their names are not taken off the books till the\nperiod of probation has expired. It appears to me that it\nwould be only fair that such patients should remain under the\ncognizance of superintendents as long as they are in any way\nresponsible for them.",
+              "id": "f012-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "I am well aware that many minor difficulties would arise\nin the organising of a system such as is now proposed; but\nthey will be small in comparison with the advantages to be\nderived in overcoming them. These advantages consist\nin:—",
+              "id": "f012-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "1st.—Keeping down the growth of ayslums, of which the\n“inevitable addition” would not be necessary every ten\nyears.",
+              "id": "f012-s-u04"
+            },
+            {
+              "kind": "text",
+              "text": "2nd.—A real system of supervision and management over\nlunatics in private dwellings would be established.",
+              "id": "f012-s-u05"
+            },
+            {
+              "kind": "text",
+              "text": "3rd.—The public would be guaranteed the proper care of\nall their pauper lunatics by their transference to the care of\nthe District Board.",
+              "id": "f012-s-u06"
+            },
+            {
+              "kind": "text",
+              "text": "4th.—A large proportion of lunatics would be provided for\nby the Cottage System, if superintendents could assure\nthemselves of the proper treatment of patients under such\ncircumstances.",
+              "id": "f012-s-u07"
+            },
+            {
+              "kind": "text",
+              "text": "5th.—The system might be made available for the treat-\nment of convalescent cases. I know of many instances\nwithin the last few months, which would have been benefitted\nby a change from the discipline of the Asylum, could I only\nhave assured myself by personal observation of their proper\ntreatment during their term of convalescence.",
+              "id": "f012-s-u08"
+            },
+            {
+              "kind": "text",
+              "text": "The Cottage System must sooner or later be brought more\nfully into play, but it will never gain the confidence of the\ngeneral public, or of those physicians who have made insanity\ntheir special study, until more stringent provisions against\nabuse are instituted, and greater assurances are offered that\npatients so provided for are looked after in a manner more\nnearly approaching to those confined in asylums. By its\nelaboration all necessity for enlargement of existing asylums\nwould be obviated for many years to come. The machinery\nfor carrying out the plan I have suggested already exists—\nand, were it adopted, it would secure a reduction of the enor-\nmous expenses to which districts are liable for the provision\nand maintenance of asylum accommodation.",
+              "id": "f012-s-u09"
+            },
+            {
+              "kind": "signature",
+              "text": "VOL. XV.                    35",
+              "id": "f012-s-u10"
             }
           ],
           "notes": [
-            "Running head: 1870.] by J. B. TUKE, M.D.",
             "The printed form “ayslums” is retained. Volume and signature mark are printed together below the last body line."
           ]
         }

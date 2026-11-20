@@ -19,7 +19,7 @@ Wellcome Library, s5912id1397886, Source frames 1–12. Original publication: Jo
 
 AI-assisted reading used fixed source scans. Published text preserves printed spellings and historical terminology. Spacing may be normalized. A square (□) indicates an unresolved character. See the notes for editorial omissions and uncertain readings.
 
-Version 0.1.0. This dataset has no measured error rate or expert proofreading.
+Version 0.2.0. This dataset has no measured error rate or expert proofreading.
 ## Rights and citation
 
 The original nineteenth-century printed text is in the public domain in the United States. Source scans are linked for verification. CC BY 4.0 applies to new editorial material and encoding wherever copyright applies. Credit the historical source and the transcription by Chu, Chen-Yu (https://orcid.org/0009-0003-9738-6914). For a reading correction, cite the scan number and the relevant text in a GitHub issue.

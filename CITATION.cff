@@ -3,7 +3,7 @@
   "message": "Please cite the dataset version and the original publication.",
   "type": "dataset",
   "title": "蘇格蘭精神病患的家庭寄宿照護（1870） / The Cottage System of Management of Lunatics as practised in Scotland, with Suggestions for its Elaboration and Improvement — Transcription Dataset",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "date-released": "2026-11-20",
   "authors": [
     {
